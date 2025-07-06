@@ -13,10 +13,10 @@ El objetivo de la herramienta, es llevar un registro de hosts activos para el ma
 ## Estructura
 
 Final/
-├── main.py                # Archivo principal que ejecuta la interfaz de usuario.
-├── network_scanner.py     # Módulo para el escaneo de redes y registro de resultados.
-├── requirements.txt       # Dependencias externas
-└── README.md              # Descripción del programa, requisitos, y detalles para su aplicación.
+main.py                # Archivo principal que ejecuta la interfaz de usuario.
+network_scanner.py     # Módulo para el escaneo de redes y registro de resultados.
+requirements.txt       # Dependencias externas
+README.md              # Descripción del programa, requisitos, y detalles para su aplicación.
 
 Una vez ejecutado el programa, añadirá a su estructura el archivo scan_results.json.
 
